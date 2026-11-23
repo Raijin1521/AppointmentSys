@@ -1,0 +1,1 @@
+-- MySQL schema will be added in the database setup step.
